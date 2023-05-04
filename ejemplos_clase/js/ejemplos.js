@@ -35,10 +35,10 @@ console.log(numero1 / numero2);
 // Uso de concatenadores!
 
 // Declaración de variables
-const texto1 = "Mi nombre es";
-const nombre = "carlos";
-const nacimiento = 1990;
-const texto2 = "nací en el año:";
+var texto1 = "Mi nombre es";
+var nombre = "carlos";
+var nacimiento = 1990;
+var texto2 = "nací en el año:";
 
 //Impresión por consola de variables:
 console.log(texto1 + nombre + texto2 + nacimiento);
